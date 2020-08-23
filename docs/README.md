@@ -30,7 +30,7 @@
 
 **Ƭ BufferLike**: _`Buffer` \| [TransformableToBuffer](interfaces/transformabletobuffer.md) \| [PrefixedHexString](#prefixedhexstring) \| `number`_
 
-_Defined in types.ts:16_
+_Defined in [types.ts:16](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L16)_
 
 ---
 
@@ -40,6 +40,6 @@ _Defined in types.ts:16_
 
 **Ƭ PrefixedHexString**: _`string`_
 
-_Defined in types.ts:11_
+_Defined in [types.ts:11](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L11)_
 
 ---
