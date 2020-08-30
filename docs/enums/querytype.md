@@ -21,7 +21,7 @@
 
 **BLOCK**: = "block"
 
-_Defined in [index.ts:16](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/index.ts#L16)_
+_Defined in [index.ts:16](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/index.ts#L16)_
 
 ---
 
@@ -31,7 +31,7 @@ _Defined in [index.ts:16](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **HISTORY**: = "history"
 
-_Defined in [index.ts:15](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/index.ts#L15)_
+_Defined in [index.ts:15](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/index.ts#L15)_
 
 ---
 
@@ -41,7 +41,7 @@ _Defined in [index.ts:15](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **MULTI**: = "multi-query"
 
-_Defined in [index.ts:14](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/index.ts#L14)_
+_Defined in [index.ts:14](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/index.ts#L14)_
 
 ---
 
@@ -51,6 +51,6 @@ _Defined in [index.ts:14](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **QUERY**: = "query"
 
-_Defined in [index.ts:13](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/index.ts#L13)_
+_Defined in [index.ts:13](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/index.ts#L13)_
 
 ---

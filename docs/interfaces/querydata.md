@@ -30,7 +30,7 @@
 
 **● auth**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:47](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L47)_
+_Defined in [types.ts:47](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L47)_
 
 ---
 
@@ -40,7 +40,7 @@ _Defined in [types.ts:47](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● db**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:37](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L37)_
+_Defined in [types.ts:37](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L37)_
 
 ---
 
@@ -50,7 +50,7 @@ _Defined in [types.ts:37](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● formattedDate**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:42](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L42)_
+_Defined in [types.ts:42](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L42)_
 
 ---
 
@@ -60,7 +60,7 @@ _Defined in [types.ts:42](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● host**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:32](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L32)_
+_Defined in [types.ts:32](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L32)_
 
 ---
 
@@ -70,7 +70,7 @@ _Defined in [types.ts:32](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● param**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:22](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L22)_
+_Defined in [types.ts:22](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L22)_
 
 ---
 
@@ -80,7 +80,7 @@ _Defined in [types.ts:22](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● r**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:57](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L57)_
+_Defined in [types.ts:57](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L57)_
 
 ---
 
@@ -90,7 +90,7 @@ _Defined in [types.ts:57](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● s**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:62](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L62)_
+_Defined in [types.ts:62](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L62)_
 
 ---
 
@@ -100,7 +100,7 @@ _Defined in [types.ts:62](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● type**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:27](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L27)_
+_Defined in [types.ts:27](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L27)_
 
 ---
 
@@ -110,6 +110,6 @@ _Defined in [types.ts:27](https://github.com/StylusFrost/flureejs-query/blob/72a
 
 **● v**: _[BufferLike](../#bufferlike)_
 
-_Defined in [types.ts:52](https://github.com/StylusFrost/flureejs-query/blob/72ad6f5/src/types.ts#L52)_
+_Defined in [types.ts:52](https://github.com/StylusFrost/flureejs-query/blob/18565ea/src/types.ts#L52)_
 
 ---
